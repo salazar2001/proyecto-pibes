@@ -7,5 +7,9 @@ public class Main {
 
         System.out.println("mommy so vert hot asfck");
 
+        for(int i=0; i<5; i++){
+
+            System.out.println("gay el que lo lea");
+        }
     }
 }
