@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println("mommy so vert hot asfck");
 
+        System.out.println("tener permiso");
+
     }
 }
