@@ -5,5 +5,7 @@ public class Main {
 
         System.out.println("pokemon is so hot");
 
+        System.out.println("mommy so vert hot asfck");
+
     }
 }
